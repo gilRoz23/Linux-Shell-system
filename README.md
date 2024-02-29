@@ -16,6 +16,10 @@ This program is a Unix/Linux shell that supports job control, pipes, and a histo
    ```sh
    make myshell
    ```
+2. **Running the Shell**: After compilation, you can run the shell by executing:
+   ```sh
+   ./myshell
+   ```
 ## Usage
 Enter commands at the prompt and observe the shell's behavior. Use the following commands and features to interact with the shell:
 
